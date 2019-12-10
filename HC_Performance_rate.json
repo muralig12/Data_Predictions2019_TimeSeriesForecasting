@@ -1,0 +1,1881 @@
+[
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.56,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.65,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.36,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.46,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.36,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.56,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : 0.65
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "1",
+		"performance_rate" : 066,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "1",
+		"performance_rate" : null,
+		"threshold_value" : 0.68
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.46,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "1",
+		"performance_rate" : 0.26,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : null,
+		"threshold_value" : 0.58
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.48,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.46,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.46,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "1",
+		"performance_rate" : 0.56,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "1",
+		"performance_rate" : 0.56,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "1",
+		"performance_rate" : 0.66,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-08-28 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.5,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.5,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "12",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "12",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "12",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "14",
+		"performance_rate" : 0.9,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.5,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.7,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "14",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.4,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.6,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "14",
+		"performance_rate" : 0.7,
+		"threshold_value" : 0.76
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "19",
+		"performance_rate" : 0.86,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "19",
+		"performance_rate" : 0.86,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "19",
+		"performance_rate" : 0.86,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "19",
+		"performance_rate" : 0.86,
+		"threshold_value" : 0.85
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "19",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:27:14",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:28:59",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:32:09",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 10:36:08",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 11:04:06",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "21",
+		"performance_rate" : 0.78,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "22",
+		"performance_rate" : 0.5,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.5,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.5,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.5,
+		"threshold_value" : 0.85
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "22",
+		"performance_rate" : 0.666666666666667,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "22",
+		"performance_rate" : 0.666666666666667,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "22",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "22",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "22",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "22",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "22",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "22",
+		"performance_rate" : 0.6666666666666666,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:27:14",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:28:59",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:32:09",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 10:36:08",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 11:04:06",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "23",
+		"performance_rate" : 0.8,
+		"threshold_value" : 0.69
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:27:14",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:28:59",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:32:09",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 10:36:08",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 11:04:06",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : 0.73,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "24",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:27:14",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:28:59",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:32:09",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 10:36:08",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 11:04:06",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : 0.67,
+		"threshold_value" : 0.79
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "32",
+		"performance_rate" : null,
+		"threshold_value" : 0.6
+	},
+	{
+		"createdat" : "2019-09-10 09:25:50",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:27:14",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:28:59",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 09:32:09",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 10:36:08",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-10 11:04:06",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "39",
+		"performance_rate" : 0.75,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "48",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "51",
+		"performance_rate" : 0.88,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "51",
+		"performance_rate" : null,
+		"threshold_value" : 0.2
+	},
+	{
+		"createdat" : "2019-09-16 10:01:01",
+		"measureid" : "52",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "52",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "52",
+		"performance_rate" : null,
+		"threshold_value" : 0.72
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "54",
+		"performance_rate" : 0.67,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "91",
+		"performance_rate" : null,
+		"threshold_value" : 0.9
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "99",
+		"performance_rate" : 0.8,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "110",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "110",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "110",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "110",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "110",
+		"performance_rate" : 0.75,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "117",
+		"performance_rate" : 0.89,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "130",
+		"performance_rate" : null,
+		"threshold_value" : 0.8
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "145",
+		"performance_rate" : 0.9,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "145",
+		"performance_rate" : 0.9,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "156",
+		"performance_rate" : null,
+		"threshold_value" : 0.78
+	},
+	{
+		"createdat" : "2019-08-28 04:58:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-28 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "249",
+		"performance_rate" : 0.71,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-10-18 06:56:00",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-21 08:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-21 10:01:21",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-21 13:00:17",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-22 05:04:05",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-22 05:10:05",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-22 05:12:05",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-22 05:14:05",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-22 05:16:06",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-10-28 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-04 10:01:02",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-11 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-18 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-19 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-20 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-21 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-22 10:01:02",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-23 10:01:02",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-24 10:01:02",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-11-25 10:01:01",
+		"measureid" : "250",
+		"performance_rate" : null,
+		"threshold_value" : 0.94
+	},
+	{
+		"createdat" : "2019-08-29 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-30 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-08-31 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-01 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-02 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-03 10:01:01",
+		"measureid" : "435",
+		"performance_rate" : null,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-23 10:01:01",
+		"measureid" : "436",
+		"performance_rate" : 0.91,
+		"threshold_value" : null
+	},
+	{
+		"createdat" : "2019-09-30 10:01:01",
+		"measureid" : "436",
+		"performance_rate" : 0.91,
+		"threshold_value" : 0.8
+	}
+]
